@@ -1,8 +1,16 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fresh start</title>
+    <link rel="stylesheet" href="./resourses/index.css">
+</head>
  
 <body>
   <h1>Hege</h1>
-  <p>Welcome to my first try here!</p>
+  <p>Welcome to my first try!</p>
   <img src="https://gurushots.com/photo/7c58e446dc34ada870194270de7957d2" />
 </body>
  
